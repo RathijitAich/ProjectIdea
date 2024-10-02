@@ -1,0 +1,37 @@
+FITNESS & WORKOUT APP (JAVA):
+
+
+0. Create user profile with name,age,height,weight,gender and create password and you will be given a randomly generated id.
+
+1.User id and password to login.
+
+2.Loading screen after putting password.
+
+3.Then comes the main interface of the app
+ -On the top there will be current stats of the user(ET. BMI, BODYFAT%, Cholesterol level etc.).In the beginning everything will be set to null and will change based on further inputs from user.
+
+ -Then a human muscle figure will be shown below that stats line where there will be all the necessary muscle groups of the body.(HARD- clicking or touching the bodypart will take us to a page of the workouts for that muscle group.Will implement this in the end.)We will make an interactive muscle selection menu.Where we can select each muscle and then we will be taken to a page to select equipments(dumbell,barbell,machine and freehand).Then it will take us to our desired workouts.
+
+-There will be a health corner where there will be BMI calc,fitness calc,BP tracker etc.
+
+-We will also add a calorie tracker to track calories(add or delete calories based on our consumption)
+  
+
+
+
+[ User login and password  -> loading screen -> Main Interface -> Human body – 
+
+-> Exercises related to that specific body part ->equipments to train that part ->
+
+(calorie tracker , bmi and other statistics will always be on every page ) ] 
+ 
+
+
+[ Edit profile ->add info(weight,height,age,gender) ->suggest personalised plans  based on info
+Main Menu will have an edit update personal information option]
+
+
+
+Github e upload kore dekhi. Ki bolos?
+GORI DE UPLOAD
+
